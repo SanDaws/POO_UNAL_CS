@@ -7,3 +7,5 @@ adjunto en este documento una guia de Visual estudio code para la compilacion el
 
 https://www.youtube.com/watch?v=_Paw8ZRSlqY
 Aqui se indica como descargar e instalar .net
+
+Aun me encuentro en proceso de conocer todo sobre este lenguaje, mi motivacion al aprenderlo es poder desarrollar videojuegos.
